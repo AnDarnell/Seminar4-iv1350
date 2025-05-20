@@ -1,4 +1,3 @@
-// === FILE: view/View.java ===
 package se.kth.iv1350.pos.view;
 
 import se.kth.iv1350.pos.controller.Controller;
